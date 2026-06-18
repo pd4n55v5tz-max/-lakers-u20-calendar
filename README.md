@@ -1,1 +1,1 @@
-# -lakers-u20-calendar
+# lakers-u20-calendar
